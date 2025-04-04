@@ -20,12 +20,6 @@ Para ejecutar este proyecto necesitas:
 2. **Abrir el proyecto** en tu entorno de desarrollo preferido.
 3. **Compilar y ejecutar** la clase `Main.java`, que es el punto de entrada del programa.
 
-Tambien puedes ejecutarlo desde la terminal usando:
-```sh
-javac -d bin src/Tragamonedas/*.java  # Compilar
-java -cp bin Tragamonedas.Main        # Ejecutar
-```
-
 ## 📚 Estructura del Proyecto
 ```
 Tragamonedas/
@@ -44,11 +38,10 @@ Tragamonedas/
 - Si la música no se reproduce, revisa que el formato sea **WAV** y que Java tenga acceso a los archivos.
 - Puedes modificar los símbolos en `SlotMachine.java` si deseas agregar nuevos.
 
-## ✅ Mejoras Futuras
-- Agregar efectos visuales al obtener un Jackpot.
-- Permitir al usuario cambiar la apuesta.
-- Implementar un sistema de créditos o monedas.
-
 ---
 🎮 **Diviértete jugando con esta máquina tragamonedas!** 🚀
+
+```sh
+a
+```
 
